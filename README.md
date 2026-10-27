@@ -41,3 +41,7 @@ A minor correction was previously made to the location of one qualitative commen
 The archived version of these research materials is available on Zenodo:
 
 **Tsubota, Yasushi. Research Materials for "Managing Contextual Risk in Generative-AI Translation: A Pilot Stress-Test Study and Prompt-Based Review Workflow for Japanese-to-English Translation." Version 1.0. Zenodo. DOI: 10.5281/zenodo.23679682**
+
+## License
+
+These research materials are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
